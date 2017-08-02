@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: [Julia Neuro]
 description: [Julia for Neuroscience]
+is_project_page: true
+repository_url: https://github.com/JuliaNeuro
