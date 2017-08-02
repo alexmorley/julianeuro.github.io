@@ -2,15 +2,18 @@
 ---
 
 @import "{{ site.theme }}";
-header ul {
+header2 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     width: 200px;
     background-color: #f1f1f1;
+    position:absolute;
+    right:50px;
+    top:52px;
 }
 
-header li a {
+header2 li a {
     display: block;
     color: #000;
     padding: 8px 16px;
@@ -18,7 +21,7 @@ header li a {
 }
 
 /* Change the link color on hover */
-header li a:hover {
+header2 li a:hover {
     background-color: #555;
-    color: white;
+    color: green;
 }

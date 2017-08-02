@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Julia Packages exclusively for Neuroscience
+## Julia Packages exclusively for Neuroscience
 
 | Package | Description | Stable Build? |
 | --- | --- | --- |

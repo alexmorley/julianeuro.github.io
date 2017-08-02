@@ -2,6 +2,8 @@
 layout: default
 ---
 
+## People using Julia for neuroscience
+
 | Handle | Sub-field |
 | --- | --- |
 | [simonster](https://github.com/simonster) | EPhys |
