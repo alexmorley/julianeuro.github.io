@@ -1,12 +1,13 @@
 <header>
     <nav class="nav">
         <div class="container">
-            <h1 class="logo"><a href="{{ site.github.repository_url }}"><img src="assets/julianeurologo.png"><span>{{ site.title }}</span></a></h1>
+            <h1 class="logo"><a href="{{ site.github.repository_url }}"><img src="assets/julianeurologo.png"></a></h1>
             <ul class="navbar">
                 <li><a href="{{ '/packages' | prepend: site.baseurl }}">Packages</a></li>
                 <li><a href="{{ '/papers' | prepend: site.baseurl }}">Papers</a></li>
                 <li><a href="{{ '/people' | prepend: site.baseurl }}">People</a></li>
             </ul>
+            <span>{{ site.title }}</span>
         </div>
     </nav>
     <!-- <p>{{ site.description | default: site.github.project_tagline }}</p> -->
