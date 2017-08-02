@@ -2,5 +2,10 @@
 layout: default
 ---
 
-[!Julia Neuro Logo](./assets/julianeurologo.png)
-<p style="text-align: center;"> ## Coming soon! </p>
+![Julia Neuro Logo](./assets/julianeurologo.png)
+
+## [Packages](./packages)
+
+## [People](./people)
+
+## [Papers](./papers)

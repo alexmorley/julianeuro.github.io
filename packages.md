@@ -3,6 +3,7 @@ layout: default
 ---
 
 # Julia Packages exclusively for Neuroscience
+
 | Package | Description | Stable Build? |
 | --- | --- | --- |
 | [NeuralynxNCS.jl](https://github.com/simonster/NeuralynxNCS.jl) | This is a Julia module for reading Neuralynx NCS files |  |
@@ -23,3 +24,4 @@ layout: default
 | [NEAT.jl](https://github.com/Andy-P/NEAT.jl) | Julia implemention of NEAT (NeuroEvolution of Augmenting Topologies) algorithm | WIP |
 | [BrainWave.jl](https://github.com/sam81/BrainWave.jl) | BrainWave is a module containing functions to process electroencephalographic (EEG) recordings with the Julia programming language. | Failing |
 | [DCEMRI.jl](https://github.com/davidssmith/DCEMRI.jl) | DCE MRI analysis in Julia | Failing |
+
