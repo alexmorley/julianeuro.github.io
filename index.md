@@ -2,10 +2,11 @@
 layout: default
 ---
 
-![Julia Neuro Logo](./assets/julianeurologo.png)
-
 ## [Packages](./packages)
+What out there?
 
 ## [People](./people)
+Who's doing it?
 
 ## [Papers](./papers)
+Published results.
